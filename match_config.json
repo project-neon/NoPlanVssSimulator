@@ -1,0 +1,13 @@
+{
+  "blue_robots": [
+    {"radio_id":  0, "vision_id":  0, "start_position":  [200, 0], "orientation":  0},
+    {"radio_id":  1, "vision_id":  1, "start_position":  [200, 200], "orientation":  3.14},
+    {"radio_id":  2, "vision_id":  2, "start_position":  [200, -200], "orientation":  3.14}
+  ],
+  "yellow_robots": [
+    {"radio_id":  3, "vision_id":  3, "start_position":  [-200, 0], "orientation": 3.14},
+    {"radio_id":  4, "vision_id":  4, "start_position":  [-200, 200], "orientation": 0},
+    {"radio_id":  5, "vision_id":  5, "start_position":  [-200, -200], "orientation": 3.14}
+  ],
+  "ball_pos": [0, 0]
+}

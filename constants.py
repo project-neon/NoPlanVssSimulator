@@ -1,0 +1,5 @@
+class COLORS:
+    NEON_MEDIUM_GREY = (87, 86, 94)
+    NEON_LIGHT_GREY = (119, 118, 124)
+    NEON_BLACK = (37, 38, 55)
+    NEON_LIGHT_GREEN = (40, 178, 82)
