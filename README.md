@@ -19,7 +19,7 @@ Done! now you have all you need to run NoPlanVssSimulator!
 
 ## How to run
 
-Before run make sure you have enable ports 5778 and 5777, these are the sender and receiver ports for UDP connection with NoPlan on simulated mode. In linux you can run ```fuser X/tcp``` being X the ports to make sure tha any process is using (and empty result means enable port).
+Before run make sure you have enable ports 5778 and 5777, these are the sender and receiver ports for UDP connection with NoPlan on simulated mode. On linux you can run ```fuser X/tcp``` being X the ports to make sure tha any process is using (and empty result means enable port).
 
 To run:
 
